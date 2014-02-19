@@ -1,7 +1,6 @@
 
 public class SpiderSong {
 	static String swallowstr = "I don't know why she swallowed that fly. \n" + "Perhaps she'll die" + "\n";
-	//static String diestr = "Perhaps she'll die";
 	static String womanstr = "There was an old woman who slallowed a ";
 	static String shestr = "She swallowed the ";
 	static String catchstr = " to catch the ";
